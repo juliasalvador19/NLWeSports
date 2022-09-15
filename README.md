@@ -1,4 +1,19 @@
-# NLWesports
-Projeto realizado com o evento da NLW da Rocketseat.
-Evento iniciado em 11/09/2022 e finalizado em 18/09/2022.
-- Julia Salvador 
+# NLW eSports 
+
+![preview](./.github/preview.png)
+
+> Trilha Explorer
+
+Projeto construído do evento Next Level Week da Rocketseat
+
+[Clique aqui para acessar](https://juliasalvador19.github.io/NLWeSports/)
+
+## Tecnologias
+
+- HTML
+- CSS
+- Git e GitHub
+
+## Contato
+
+juliasalvador10@gmail.com
